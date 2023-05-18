@@ -128,11 +128,11 @@
 
     aside {
         height: 100vh;
-        background: gray;
+        background: white;
     }
 
     aside .top {
-        background-color: white;
+        /* background-color: white; */
         display: flex;
         align-items: center;
         justify-content: space-between;
